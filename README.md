@@ -4,7 +4,7 @@ This is a short example demonstrating how the WMS endpoint of the meteomatics AP
 
 - Install dependencies `npm install`.
 - Build the example and serve it using a development server: `npm run start`.
-- Open the exampl in your browser using the url printed to the console. Most likely [localhost:8080](http://localhost:8080).
+- Open the example in your browser using the url printed to the console. Most likely [localhost:8080](http://localhost:8080).
 
 **Explanation:**
 
